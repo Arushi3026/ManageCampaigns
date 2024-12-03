@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ManageCampaigns/static/css/main.3b9c02f7.css",
+    "main.js": "/ManageCampaigns/static/js/main.b9b8d73c.js",
+    "static/media/calendar-icon.png": "/ManageCampaigns/static/media/calendar-icon.580b51cf6729c69800a6.png",
+    "static/media/view-icon.png": "/ManageCampaigns/static/media/view-icon.052ade3043b0ae5f9760.png",
+    "static/media/report-icon.png": "/ManageCampaigns/static/media/report-icon.88013448c82778027dae.png",
+    "static/media/csv-icon.png": "/ManageCampaigns/static/media/csv-icon.43fa281acaf1cda6baae.png",
+    "index.html": "/ManageCampaigns/index.html",
+    "main.3b9c02f7.css.map": "/ManageCampaigns/static/css/main.3b9c02f7.css.map",
+    "main.b9b8d73c.js.map": "/ManageCampaigns/static/js/main.b9b8d73c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b9c02f7.css",
+    "static/js/main.b9b8d73c.js"
+  ]
+}
