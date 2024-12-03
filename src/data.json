@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": {
+          "en": "Test Whatsapp",
+          "hi": "टेस्ट व्हाट्सएप"
+        },
+        "region": "US",
+        "createdOn": 1559807714999,
+        "price": {
+          "en": "User-initiated conversations (e.g. support requests) are free. Note that this free quota can only be used for support chats, so conversations where a customer contacts you first. For each business-initiated conversation, such as newsletters or sales offers, WhatsApp charges 0.1131€ per conversation in Germany (see pricing table below). In addition, there is a processing fee of 0.01€ for each campaign message.",
+          "hi": "उपयोगकर्ता-प्रेरित संवाद (जैसे कि समर्थन अनुरोध) मुफ़्त हैं। ध्यान दें कि इस मुफ्त कोटा का उपयोग केवल समर्थन चैट्स के लिए किया जा सकता है, इसलिए वार्तालापों में जहाँ ग्राहक पहले संपर्क करता है। प्रत्येक व्यवसाय-प्रेरित संवाद के लिए, जैसे न्यूज़लेटर्स या बिक्री ऑफ़र, व्हाट्सएप जर्मनी में प्रत्येक संवाद के लिए 0.1131€ का शुल्क लेता है (नीचे मूल्य तालिका देखें)। इसके अतिरिक्त, प्रत्येक अभियान संदेश के लिए 0.01€ का प्रोसेसिंग शुल्क है।"
+        },
+        "csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KWHqdQOfzg8HtUr5oP4IyoNJxjAen82NjfpP_ge_B4eIomzkM6nR-bRT_n935iKsxYY3M5EQPdH1/pub?gid=2004125639&single=true&output=csv",
+        "report": "https://www.scribd.com/document/435363027/REPORT-ON-WHATSAPP",
+        "image_url": "https://cdn.pixabay.com/photo/2017/05/05/23/39/whatsapp-2288548_640.png"
+      },
+      {
+        "name": {
+          "en": "Super Jewels Quest",
+          "hi": "सुपर ज्वेल्स क्वेस्ट"
+        },
+        "region": "CA, FR",
+        "createdOn": 1559806715124,
+        "price": {
+          "en": "Super Jewels Quest is completely free to play but some in-game items such as extra moves or lives will require payment. Free. In-App Purchases. 2000 Coins Pack. $0.99; 12000 Coins Pack. $3.99; 21000 Coins Pack. $5.99",
+          "hi": "सुपर ज्वेल्स क्वेस्ट पूरी तरह से खेलने के लिए मुफ़्त है लेकिन कुछ इन-गेम आइटम जैसे अतिरिक्त मूव्स या जीवन के लिए भुगतान करना होगा। मुफ्त। इन-ऐप खरीदारी। 2000 सिक्के पैक। $0.99; 12000 सिक्के पैक। $3.99; 21000 सिक्के पैक। $5.99"
+        },
+        "csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KWHqdQOfzg8HtUr5oP4IyoNJxjAen82NjfpP_ge_B4eIomzkM6nR-bRT_n935iKsxYY3M5EQPdH1/pub?gid=2004125639&single=true&output=csv",
+        "report": "https://super-jewels-quest.soft112.com/",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMjc2NjBiYTUtNWVmYS00MDI2LWJmODctY2U0Y2M1MTU3M2RjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "name": {
+          "en": "Mole Slayer",
+          "hi": "मोल स्लेयर"
+        },
+        "region": "FR",
+        "createdOn": 1559806711124,
+        "price": {
+          "en": "There are at least 4 99s that make ~200m in the process (Thieving, Agility, Runecrafting, Slayer), and the first 3 require literally no capital.",
+          "hi": "कम से कम 4 99s हैं जो प्रक्रिया में ~200m बनाते हैं (चोरी, चुस्ती, रनक्राफ्टिंग, स्लेयर), और पहले 3 में सचमुच कोई पूंजी नहीं चाहिए।"
+        },
+        "csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KWHqdQOfzg8HtUr5oP4IyoNJxjAen82NjfpP_ge_B4eIomzkM6nR-bRT_n935iKsxYY3M5EQPdH1/pub?gid=2004125639&single=true&output=csv",
+        "report": "https://www.scribd.com/document/640110847/Moles-Lab-Report",
+        "image_url": "https://assets.untappd.com/photos/2023_05_05/a0549d3c43e46bc523d3bd42d877df0d_640x640.jpg"
+      },
+      {
+        "name": {
+          "en": "Mancala Mix",
+          "hi": "मांकाला मिक्स"
+        },
+        "region": "JP",
+        "createdOn": 1559806680124,
+        "price": {
+          "en": "Mini Glass Gems, Mixed Colour Mancala Flat Bottom Marble Beads for ... current price $20.86. Classic Games Collection Deluxe Wood Mancala With Glass Beads.",
+          "hi": "मिनी ग्लास रत्न, मिश्रित रंग मांकाला फ्लैट बॉटम मार्बल मोतियों के लिए ... वर्तमान कीमत $20.86। क्लासिक गेम्स कलेक्शन डीलक्स वुड मांकाला विथ ग्लास बीड्स।"
+        },
+        "csv": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KWHqdQOfzg8HtUr5oP4IyoNJxjAen82NjfpP_ge_B4eIomzkM6nR-bRT_n935iKsxYY3M5EQPdH1/pub?gid=2004125639&single=true&output=csv",
+        "report": "https://www.researchgate.net/publication/279930334_Mancala_games_that_count",
+        "image_url": "https://play-lh.googleusercontent.com/5Tz40vEkCoKoL5l7zajuRhFoBDe6K8IPb_zsI3fLsmyrEvthH0E9PDDyxnizxHypYyM=w526-h296-rw"
+      }
+    ]
+  }
+  
